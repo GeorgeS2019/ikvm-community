@@ -3,6 +3,9 @@ How to build IKVM
 
 
 ## [WIP] Update 5thApril2023
+
+> Current: [ikvm-jdk8u51-b34](https://github.com/ikvm-revived/jdk8u/tree/ikvm-jdk8u51-b34)
+> <strong>Next___</strong>: [ikvm-jdk8u60-b32](https://github.com/ikvm-revived/ikvm/pull/290)
 - Use Develop Branch
        <img src="https://user-images.githubusercontent.com/49812372/230218458-93efeebd-d808-445b-b0c5-7f77b2ac43d9.png" width=200px>
      > Native library was removed and replaced with LLVM generated trampolines. So it needs LLVM. But a plain install of LLVM is fine. No WSL needed
