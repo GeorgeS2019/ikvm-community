@@ -18,6 +18,9 @@ Create a build directory in openjdk
 
 <img src="https://user-images.githubusercontent.com/49812372/230930440-bce40cb0-254f-4a11-998c-f3e1897fd030.png" alt="ikvm" width=400px>
 
+The final folder structure 
+
+`/openjdk/build/linux-x86_64-normal-server-release`
 
 ## [WIP] Update 5thApril2023
 
