@@ -1,6 +1,23 @@
 # ikvm-community
 How to build IKVM
 
+## [WIP] Update 10th April 2023
+
+[CONTRIBUTING.md](https://github.com/ikvm-revived/ikvm/blob/develop/CONTRIBUTING.md)
+
+Create a build directory in openjdk
+- ikvm\openjdk\build 
+  >  instead of building openjdk, which needs WSL, get it from Github Action
+  > Artifacts are there: https://github.com/ikvm-revived/ikvm/actions/runs/4536287480
+  > Click on a build result for a relevant branch (typically you'll want to use **develop**)  
+
+<img src="https://user-images.githubusercontent.com/49812372/230931536-05db3cf8-dd99-4460-ad45-ad9d1725dd68.png" alt="ikvm" width=800px>
+
+
+  > Scroll down to the bottom of the list to locate `openjdk-build-linux-x86_64-normal-server-release`. Download this zip file from this link and unzip into `openjdk/build.`
+
+<img src="https://user-images.githubusercontent.com/49812372/230930440-bce40cb0-254f-4a11-998c-f3e1897fd030.png" alt="ikvm" width=400px>
+
 
 ## [WIP] Update 5thApril2023
 
